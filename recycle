@@ -54,6 +54,8 @@ listing_files(){
     fi
 }
 
+cd
+
 if [[ -f "$HOME/.bashconfig.cat" ]]; then
     #statements
     directory=`cat .bashconfig.cat`
