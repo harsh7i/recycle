@@ -1,5 +1,6 @@
-A Tool for bash developers To save much Time.
-### command
+### A Tool for bash developers to save much time.
+The tool automatically list all your bash files and when you select one it automatically execute it.
+### Command
 * `Termux`
 
 ```shell
